@@ -9,7 +9,11 @@ permalink: /resume/
       <!-- Visual Resume -->
       <div class="resume-visual">
              <a href="/assets/files/VRamu_resume.pdf" download>
-             <img src="/assets/images/resume_thumbnail.png" alt="Resume thumbnail">
+             <img
+                  src="{{ '/assets/images/resume_thumbnail.png' | relative_url }}"
+                  alt="Resume preview"
+                  class="resume-thumbnail">
+
              </a>
              <p>Click the image to download my resume</p>
        </div>
