@@ -5,7 +5,14 @@ permalink: /resume/
 ---
 
 <section class="section resume-section" id="resume">
-    <h2>Resume</h2>
+       <h2>Resume & Achievements</h2>
+      <!-- Visual Resume -->
+      <div class="resume-visual">
+             <a href="/assets/files/VRamu_resume.pdf" download>
+             <img src="/assets/images/resume_thumbnail.png" alt="Resume thumbnail">
+             </a>
+             <p>Click the image to download my resume</p>
+       </div>
 
     <!-- SUMMARY -->
     <div class="resume-block">
